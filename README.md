@@ -29,12 +29,14 @@ Besides coding, I enjoy drawing, reading, listening to music (currently some RnB
 <div align="center">
     <!-- GitHub Stats Card -->
     <img src="https://github-readme-stats.vercel.app/api?username=crimzxun&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
-
     <!-- Streak Stats Card -->
-    <img src="https://nirzak-streak-stats.vercel.app/?user=crimzxun&theme=dracula&hide_border=false height="180em" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=crimzxun&theme=dracula&hide_border=false" height="180em" />
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=crimzxun&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+    <!-- Top Languages Card -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crimzxun&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
+</div>
 
 <div align="center">
     <img alt="Visitor Stats" src="https://widgetbite.com/stats/crimzxun"/>  
