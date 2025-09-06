@@ -26,14 +26,17 @@ Besides coding, I enjoy drawing, reading, listening to music (currently some RnB
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 # 📊 GitHub Stats:
-<div align="center">
+<div>
     <!-- GitHub Stats Card -->
     <img src="https://github-readme-stats.vercel.app/api?username=crimzxun&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+</div>
+
+<div>
     <!-- Streak Stats Card -->
     <img src="https://nirzak-streak-stats.vercel.app/?user=crimzxun&theme=dracula&hide_border=false" height="180em" />
 </div>
 
-<div align="center">
+<div>
     <!-- Top Languages Card -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crimzxun&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
 </div>
