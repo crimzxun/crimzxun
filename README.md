@@ -44,5 +44,10 @@ Besides coding, I enjoy drawing, reading, listening to music (currently some RnB
 <br/><hr>
 
 <div align="center">
-    <img alt="Visitor Stats" src="https://widgetbite.com/stats/crimzxun"/>  
+    <img alt="Visitor Stats" src="https://widgetbite.com/stats/crimzxun"/> 
+    <br/>
+    <br/>
+    <img alt="Visits Count" src="https://komarev.com/ghpvc/?username=crimzxun&label=profile+views&color=brightgreen&style=plastic"/>
 </div>
+
+
