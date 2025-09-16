@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Anna, I'm a software enginneering student from University of Central Florida. 😁
 
-I'm currently learning about the T3 stack for full-stack software development, 3D modeling using Blender, game development using Unity/Unreal Engine! I enjoy learning and working with new technologies to challenge myself. I'm currently going back to work on a fun, cute little project called AesthtiQR. :)
+I'm currently learning about the T3 stack for full-stack software development, 3D modeling using Blender, game development using Unity/Unreal Engine! I enjoy learning and working with new technologies to challenge myself. 
 
 Besides coding, I enjoy drawing, reading, listening to music (currently some RnB and indie haha). I'm currently trying to learn crochet hehe! 🧶
 
