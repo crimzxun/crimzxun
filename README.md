@@ -26,19 +26,28 @@ Besides coding, I enjoy drawing, reading, listening to music (currently some RnB
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 # 📊 GitHub Stats:
-<div>
-    <!-- GitHub Stats Card -->
-    <img src="https://github-readme-stats.vercel.app/api?username=crimzxun&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+<!-- Streak Stats Card -->
+<div align="center">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=crimzxun&theme=react&hide_border=false" height="200em" />
 </div>
 
-<div>
-    <!-- Streak Stats Card -->
-    <img src="https://nirzak-streak-stats.vercel.app/?user=crimzxun&theme=dracula&hide_border=false" height="180em" />
+<!-- theme: aura, blue_green, blueberry, codeSTACKr, darcula, discord_old_blurple, monokai, nightowl, nord_dark, omni, radical, react, tokyonight -->
+<div align="center">
+  <a href="https://github.com/crimzxun">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crimzxun&theme=react" alt="crimzxun's GitHub Contribution"/>
+  </a>
 </div>
 
-<div>
-    <!-- Top Languages Card -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crimzxun&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
-</div>
+<a> 
+    <a href="https://github.com/crimzxun">
+        <img alt="crimzxun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=crimzxun&show_icons=true&count_private=true&theme=react&border_color=30363D&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF" height="192px" width="49.5%"/>
+    </a>
+    <a href="https://github.com/crimzxun">
+        <img alt="crimzxun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=crimzxun&langs_count=8&layout=compact&theme=react&border_color=30363D&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF" height="192px" width="49.5%"/>
+    </a>
+  <br/>
+</a>
+
+![crimzxun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=crimzxun&custom_title=crimzxun's%20%20GitHub%20Activity%20Graph&bg_color=0D1117&color=61DAFB&line=61DAFB&point=61DAFB&area_color=61DAFB&title_color=FFFFFF&area=true)
 
 <br/><hr>
